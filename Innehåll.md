@@ -1,9 +1,12 @@
+---
+layout: default
+---
 # Innehåll
 
 ## Presentation av mig
 
 Mitt namn är Mats Magnusson och jag är 43 år. Jag bor i Malmö med min sambo Jessica och vår katt Muscoth.  
-Mina största intressen i livet är hård- och mjukvara, trading, sport, musik, resor och att umgås med familj och vänner.  
+Mina största intressen i livet är it, trading, sport, musik, resor och att umgås med familj och vänner.  
 I mitt yrkesliv har jobbat inom försäljning i många år, det började med skivaffär för att sen bli säljare inom hemelektronik.
 Jag har startat och drivit flera webshoppar och har drivit flera fysiska hemelektronik butiker. Ett stort intresse som jag har hållt på med i flera år är trading.
 Jag har satt upp en antal hemsidor genom åren, framförallt i wordpress. Skrev min första kodrad i april i år så är ny inom det området. 
