@@ -4,8 +4,7 @@ layout: default
 
 
 <div class="home">
-  Welcome to my site the home of ME. My name is Mats Magnusson and I'm training to be a frontend developer. I'm a student at Linnaeus University in Sweden.
-    The purpose of this site is to publish assignments in the course Clientbased webpgrogramming.  
+  Welcome to my site the home of ME. 
 
 
 
