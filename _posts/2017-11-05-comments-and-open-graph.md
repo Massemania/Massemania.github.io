@@ -3,7 +3,8 @@ layout: post
 comments: true
 title:  "Comments and open graph"
 date:   2017-11-05 17:42:23 -0500
-categories: jekyll update
+categories: jekyll
+permalink: "/:title/"
 ---
 
 #### What is humans.txt and how have you configure it for your site?

@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Site settimgs
 title: The home of ME
 email: massemania@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   You want to follow an older student on his way to become a senior front-end developer? If your answer is yes than follow me on my ups and downs during the whole process. It's gonna be a lot of fun and it will include a lot of hard work. But who doesn't love a challenge? You have to love the process to accomplish your goals!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Massemania
+github_username:  Massemania
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
