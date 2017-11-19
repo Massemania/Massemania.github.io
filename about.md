@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<img class="img-circle" src="/mats.jpg">
 # Who am I?
 My name is Mats Magnusson and I'm 43 years old. I live in Malmö with my girlfriend Jessica and our cat Muscoth.
 
