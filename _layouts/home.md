@@ -2,13 +2,13 @@
 layout: default 
 ---
 
-
 <div class="home">
-  Welcome to my site the home of ME. 
 
-
-
-    <h1 class="page-heading">Posts</h1>
+    <h1>Welcome to my tiny site!</h1>
+    <hr><br>
+    <blockquote>You want to follow an older student on his way to become a senior front-end developer? Than follow me on my ups and downs during the whole process. It's gonna be a lot of fun and it will include a lot of hard work. But who doesn't love a challenge? You have to love the process to accomplish your goals!`</blockquote>
+    <br><hr><br><br>
+    <h1 class="page-heading">Latest Posts</h1>
 
     {{ content }}
   

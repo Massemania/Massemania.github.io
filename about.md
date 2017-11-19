@@ -16,7 +16,7 @@ I wrote my first code in april of this year when I started a full stack develope
 I am the person who everybody in mt family calls when they have a computer issue. I've worked in Windows OS for many years since the 3.11 days, you could say that I'm a computer nerd. My programming skills are evolving every day, but I also know that I have much, much more to learn. My motto in life is to have fun, enjoy life! And to do things that inspires me and doing this with a lot of passion. 
 
 As a person I'm very goal oriented and disciplined. I like to set goals and working towards them with a lot determination. I love to be challenged and I'm a positive by nature. When I get inspired sometimes I loose track of time and can only see the goal, for example when I'm developing new trading strategies. Inspiration sometime mean I can get stuck with my computer for a long time...  
-
+<br><br>
 {% if site.skillstree %}
 	{% include skillstree.html %}
 	{% endif %}

@@ -28,8 +28,8 @@ figure {
  */
 
 body {
-    //font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    font-family: "Fira Mono" !important;
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    //font-family: "Fira Mono" !important;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -38,6 +38,11 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+}
+
+.jumbotron {
+    background: #093750 !important;
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
 }
 
 
@@ -145,7 +150,7 @@ a {
  */
 
 blockquote {
-    color: $grey-color;
+    color: #abc0ca;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     @include relative-font-size(1.125);
@@ -166,7 +171,7 @@ code {
     @include relative-font-size(0.9375);
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: black;
 }
 
 code {

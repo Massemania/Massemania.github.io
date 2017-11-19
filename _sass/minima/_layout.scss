@@ -3,10 +3,10 @@
  */
 
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 2px solid $grey-color-light;
     border-bottom: 1px solid $grey-color-light;
     min-height: $spacing-unit * 1.865;
-    background-color: rgba(211, 211, 211, 0.123);
+    background-color: #093750;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -96,7 +96,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: rgba(211, 211, 211, 0.123);
+    background-color: #093750;
 }
 
 .footer-heading {
@@ -258,13 +258,13 @@ section {
 .tech .describe {
     font-family: 'Noto Sans', serif;
     margin-right: 12px;
-    text-align: center;
+    text-align: left;
 }
 
 .tech .progress {
     float: left;
     height: 25px;
-    background: white;
+    background: #022335;
     border-left: 1px solid transparent;
     border-right: 1px solid transparent;
     width: 70%;
