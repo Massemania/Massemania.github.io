@@ -18,10 +18,10 @@ an interface engineer. Connecting old system to the new one (Cerner Millenium) a
 data from the old source systems.
 I love developing new application in different languages, but my preffered is javascript.
 
-<pre>
-## My strengths                                                 ## Language
-* Committed                                                     * Swedish - fluent in writing and speaking
-    * I always complete when starting something                 * English - fluent in writing and speaking
+
+## My strengths
+* Committed
+    * I always complete when starting something
     * Love to push towards the goal
 * Prestigeless
     * Always put the organisation before my own prestige
@@ -32,8 +32,6 @@ I love developing new application in different languages, but my preffered is ja
     * Creating a plan
     * Review the plan
     * Follow through
-
-    </pre>
 
 ## Language
 * Swedish - fluent in writing and speaking
