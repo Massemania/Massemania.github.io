@@ -1,0 +1,12 @@
+- name: Adobe Photoshop
+  percentage: 50
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 40
+  color: success
+
+- name: Microsoft Excel
+  percentage: 60
+  color: blue
+  

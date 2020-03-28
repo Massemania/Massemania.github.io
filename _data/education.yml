@@ -1,0 +1,18 @@
+- title: Web developer, Linné University
+  from: 2017
+  to: 2019
+  description: Two year university as a web programmer.
+               Key techniques and keywords used in the education
+               HTML, CSS, JavaScript, C#, relation databases, document databases, 
+               UML, design patterns, version handeling with git och github, ASP.NET MVC, 
+               php, Node.js, scrum, REST, JSON, Realtids-applications, REST-api:er, 
+               HATEOAS, Architecture for webbapplications, Web Science, Web of things, Internet of things (IoT)
+
+- title: Full stack developer, Lexicon University
+  from: 2017
+  to: 2017
+  description: Full stack development (Cloud Edition) at Lexicon for 30 weeks
+               Both frontend and backend development
+               NodeJS including HTML, CSS, Javascript, Json, Jquery och Angular
+               Java SE 8 including Git, REST, cURL och Java för Android
+               Oracle databaser, SQL, LAMP-stacken, Python

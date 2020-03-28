@@ -1,62 +1,71 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+### Site Settings ###
+title               : mumsens.se
+description         : >-
+                      Hi! I am Mats Magnusson. Welcome to my homepage.  
+                      I am full stack developer, but my preference is
+                      front-end with JavaScript.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Massemania/Massemania.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : #YoussefRaafatNasry/portfolYOU
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
-# Site settings
-title: The home of ME
-email: massemania@gmail.com
-author: Mats Magnusson
-type: Blog
-image:
-  facebook: /mats.jpg
-  height: 100
-  width: 100
-description: >- # this means to ignore newlines until "baseurl:"
-  You want to follow an older student on his way to become a front-end developer? 
-  Than follow me on my ups and downs during the whole process. It's gonna be a lot of fun and it will include a lot of hard work. 
-  But who doesn't love a challenge? You have to love the process to accomplish your goals!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://massemania.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Massemania
-github_username:  Massemania
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: magnusson-se
-
-# Skillstree
-# turn on or off the skills tree in about page
-skillstree: true
-
-# Build settings
-markdown: kramdown
-theme: minima
+### Plugins ###
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+
+
+### Author Info ###
+author:
+  name              : Mats Magnusson
+  image             : https://media-exp1.licdn.com/dms/image/C5603AQHuXwr_XhnTxw/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=dsyuwsndP08qdmQ_M7ZmIRysfF9vxcjh20uuYWGYBE4
+# behance           : your_username
+# dribbble          : your_username
+  email             : mats@mumsens.se
+  facebook          : mats.magnusson
+  github            : Massemania
+# gitlab            : your_username
+# instagram         : your_username
+  linkedin          : matsmagnusson1
+  medium            : Massemania
+# soundcloud        : your_username
+  spotify           : Massemania
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : Massemania
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

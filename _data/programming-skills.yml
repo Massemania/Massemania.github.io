@@ -1,0 +1,23 @@
+- name: HTML5/CSS3
+  percentage: 80
+  color: danger
+
+- name: Javascript
+  percentage: 80
+  color:
+
+- name: NodeJS
+  percentage: 70
+  color: dark
+
+- name: React
+  percentage: 20
+  color: blue
+
+- name: C#
+  percentage: 40
+  color: yellow
+
+- name: SQL
+  percentage: 30
+  color: red
