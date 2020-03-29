@@ -16,10 +16,13 @@ At the moment I am working at IBM as a contractor on a huge project in healthcar
 The project is called SDV (Skånes Digital Healthcare Journal System) and I'm working as
 an interface engineer. Connecting old system to the new one (Cerner Millenium) and migrating
 data from the old source systems.
-I love developing new application in different languages, but my preffered is javascript.
+I love developing new applications in different program languages, but my preffered is javascript.
 
 
 ## My strengths
+* Positive
+    * I am almost always positive and have a smile on my face
+    * I don't like negativity and stay away from it
 * Committed
     * I always complete when starting something
     * Love to push towards the goal
@@ -36,8 +39,6 @@ I love developing new application in different languages, but my preffered is ja
 ## Language
 * Swedish - fluent in writing and speaking
 * English - fluent in writing and speaking
-
-
 
 ## Fun facts
 * Love to play :tennis: tennis 
