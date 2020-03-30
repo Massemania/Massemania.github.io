@@ -11,11 +11,11 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 ## Who am I
 I am 46 year old developer who lives in Malmö with my partner Jessica in flat in Västra Hamnen. 
 I have a big passion for IT, sports, music, movies and trading.
-My working background is varied with working in sales both online and in person and in IT as developer.
+My working background is varied with working in sales both online and in person and in IT as developer.  
 At the moment I am working at IBM as a contractor on a huge project in healthcare.
 The project is called SDV (Skånes Digital Healthcare Journal System) and I'm working as
 an interface engineer. Connecting old system to the new one (Cerner Millenium) and migrating
-data from the old source systems.
+data from the old source systems.  
 I love developing new applications in different program languages, but my preffered is javascript.
 
 

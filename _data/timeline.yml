@@ -1,17 +1,22 @@
 - title: Interface Engineer, IBM CIC Sweden
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I'm working at IBM as an consultant for Cerner Health Care in the SDV project (Skånes Digitala Journalsystem).
+               My role in the project is as an Interface Engineer connecting foregin systems to the future system (Cerner Millenium).
+               To do that we use the Open Link and the Open Engine platform. I also work with migrating data from the old source system.
+               In my daily work I mainly I use CCL (Cerner Command Language) which is similar to SQL to do database lookups and for programming scripts.
                
 - title: IT, Elselect
   from: 2014
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I worked as the IT guy, responsible for all conserning IT. 
+               I was responsible for software support, all the hardware and network. I also managed the companys homepage.
+
+- title: Webshop, Ljud & Bild
+  from: 2010
+  to: 2012
+  description: I started a company named Avshoppen where I sold home electronics via the wehbshop. 
+               I built the company from scratch and I did everything from setting up the shop, working with distributors and setting up campaigns. 
+               I shipped the products and was managing the support. After a year I merged with a physical home electronics store in Staffanstorp called Ljud & Bild.
+               And continued in doing so until the shops were closed in 2012.
+               

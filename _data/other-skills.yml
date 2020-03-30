@@ -1,8 +1,8 @@
-- name: Adobe Photoshop
+- name: Photoshop
   percentage: 50
   color: info
 
-- name: Adobe Illustrator
+- name: Illustrator
   percentage: 40
   color: success
 
