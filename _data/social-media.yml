@@ -85,3 +85,7 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+
+phone:
+  icon  : fa fa-phone
+  color : ff0000
