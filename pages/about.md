@@ -10,13 +10,14 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:,<br>
 ## Who am I
 I am a 46 year old developer who lives in Malmö with my partner Jessica in flat in Västra Hamnen. 
-I have a big passion for IT, sports, music, movies and trading.
+I have a big passion for IT, sports, music, movies and trading. My sparetime is divided by these things, but most of my spare time is infront of a computer. Either programming or researching ideas for new projects, or studying techniques that I want to learn. At the moment I'm creating a React application, because I haven't really used that framework before. And I like it so far, I will publish it here on my projects tab so you can read about it. So my programming skills are groing on a day by day base.
+I love developing new applications in different program languages, but my preffered is language is javascript. 
 My working background is varied with working in sales both online and in person and in IT as developer.  
 At the moment I am working at IBM as a contractor on a huge project in healthcare.
 The project is called SDV (Skånes Digital Healthcare Journal System) and I'm working as
 an interface engineer. Connecting old system to the new one (Cerner Millenium) and migrating
 data from the old source systems.  
-I love developing new applications in different program languages, but my preffered is javascript.
+ 
 
 
 ## My strengths

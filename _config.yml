@@ -71,3 +71,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+### Github meta data error fix ###
+github: [metadata]
